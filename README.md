@@ -26,5 +26,5 @@ A minimal, responsive task management web application built with Flask and Boots
 
 ### Clone the repo:
 ```bash
-git clone https://github.com/Rajvi06/infotact_project2.git
+git clone https://github.com/kvekariya-01/internship_project2.git
 cd infotact_project2
